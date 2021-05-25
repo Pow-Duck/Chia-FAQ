@@ -31,6 +31,7 @@ chia.exe   plots add -d 文件路径
 
 ## 加速节点同步
 说明: Chia节点同步过慢
+
 解决方案:
 
 下载 https://github.com/Pow-Duck/ChiaNodeSyncing/releases/
