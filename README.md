@@ -36,3 +36,6 @@ chia.exe   plots add -d 文件路径
 下载 https://github.com/Pow-Duck/ChiaNodeSyncing/releases/
 
 或自行编译ChiaNodeSyncing 
+
+
+QQ交流群: 816250346
